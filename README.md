@@ -1,0 +1,1 @@
+Is a challenge to test SOLID and typescript skills by Rocketseat
